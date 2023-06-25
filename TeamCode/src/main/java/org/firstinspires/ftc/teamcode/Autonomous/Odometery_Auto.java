@@ -15,9 +15,6 @@ public class Odometery_Auto {
     public DcMotor rightFront;
     public DcMotor rightBack;
 
-    //odometers
-    public DcMotor encoderLeft;
-    public DcMotor encoderRight;
-    public DcMotor encoderVertical;
+
 
 }
